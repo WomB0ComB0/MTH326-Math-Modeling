@@ -22,7 +22,7 @@ out.PROJECT_MATLAB_VERSION = "R2019b";
 out.PACKAGE = "mycoolpackage";
 
 % Your GitHub user name or organization name that's hosting the project
-out.GHUSER = "mygithubusername";
+out.GHUSER = "WomB0ComB0";
 
 % If you want to provide a contact email for your project, put it here. Optional.
 out.PROJECT_EMAIL = "";
